@@ -1,5 +1,5 @@
 {
-  "name": "lib-typescript-template",
+  "name": "@donatocalvillo/lib-template",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,8 @@
     "build:tsc": "tsc -p tsconfig.json",
     "lint": "eslint . --ext .ts",
     "lint:fix": "npm run lint -- --fix",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "release": "standard-version && git push --follow-tags && npm publish"
   },
   "keywords": [],
   "author": "",
@@ -25,6 +26,7 @@
     "globals": "^15.6.0",
     "husky": "^8.0.0",
     "lint-staged": "^15.2.7",
+    "standard-version": "^9.5.0",
     "typescript": "^5.5.2",
     "typescript-eslint": "^7.14.1"
   },
