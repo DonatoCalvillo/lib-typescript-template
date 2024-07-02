@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/DonatoCalvillo/lib-typescript-template/compare/v1.1.2...v1.2.0) (2024-07-02)
+
+
+### Features
+
+* add types ([f4b9704](https://github.com/DonatoCalvillo/lib-typescript-template/commit/f4b9704e52fc0719e6d44dc7bd2d6fb372d9ee10))
+
 ### [1.1.2](https://github.com/DonatoCalvillo/lib-typescript-template/compare/v1.1.1...v1.1.2) (2024-07-02)
 
 
