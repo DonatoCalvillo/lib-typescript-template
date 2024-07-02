@@ -1,6 +1,6 @@
 {
   "name": "@donatocalvillo/lib-template",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "main": "index.js",
   "scripts": {
     "build": "npm run build:clean && npm run build:tsc",
