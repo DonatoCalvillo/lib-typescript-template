@@ -26,6 +26,7 @@
     "noImplicitOverride": true, 
     "useUnknownInCatchVariables": true,
     "exactOptionalPropertyTypes": true,
+    "declaration": true,
     "paths": {
       "@src/*": ["src/*"]
     }
